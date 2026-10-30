@@ -1,0 +1,10 @@
+# Versions pinned in the Data Preparation notebook (Python 3.10-3.12, Google Colab GPU runtime)
+torch
+transformers==4.38.2
+huggingface-hub==0.23.5
+nnAudio==0.3.3
+soundfile==0.12.1
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.13.1
+scikit-learn==1.5.1
